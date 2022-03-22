@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "STANDARD 4-Post Lift",
+        "image":"assets/4Post.png",
+        "alt": "4-Post Lift",
+        "description": "Here is a general description of the 4-Post Lift. Blah blah blah blah blah. It's great and stuff.Blah blah blah blah blah. It's great and stuff.Blah blah blah blah blah. It's great and stuff.Blah blah blah blah blah. It's great and stuff.",
+        "details": "assets/4Post_2021.pdf"
+    },
+    {
+        "id": 2,
+        "name": "CLEAR FLOOR 2-Post Lift",
+        "image":"assets/Clear2Post.png",
+        "alt": "Clear Floor 2-Post Lift",
+        "description": "The Clear Floor 2-Post Lifts are widely used in auto and repairs shops. The hydraulic hose and equalization cables run across the top of the lift through a metal bar (conduit) that conects both columns in the overhead lift.",
+        "details": "assets/ClearFloor.pdf"
+
+    },
+    {
+        "id": 3,
+        "name": "FLOOR PLATE 2-Post Lift",
+        "image":"assets/Plate2Post.png",
+        "alt": "Floor Plate 2-Post Lift",
+        "description": "The Floor Plate 2-Post parking Lift is an industry leader. The hydraulic hose and equalization cables run across the floor and are covered by a beveled diamond-plate, steel floor plate, approximately 1-inch tall in the baseplate lift. The baseplate lift has a locking mechanism that is operated with the dual point release system.",
+        "details": "assets/FloorPlates.pdf"
+    },
+    {
+        "id": 4,
+        "name": "Single Post Lift",
+        "image":"assets/SinglePost.png",
+        "alt": "Single Post Lift",
+        "description": "Simple and space saving, the Single Post Lift features a hydraulic chain drive, ensuring stability while it lifts and falls as well as it's own movable wheels, making it flexible and conveneint to use.",
+        "details": "assets/SinglePost.pdf"
+    }  
+]

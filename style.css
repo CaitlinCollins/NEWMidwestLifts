@@ -1,0 +1,97 @@
+nav {
+    height: 90px;
+}
+.nav-link {
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+i {
+    color: white !important;
+    padding: 10px;
+    font-size: 22px;
+}
+.navbar-brand {
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 3px;
+    font-size: 36px;
+    color: white !important;
+   
+}
+
+
+#navbar-right {
+    float: right !important;
+}
+
+.carousel-item {
+    height: 83vh;
+    width: 100%;
+    position: relative;
+}
+
+.footer {
+    height: 70px;
+    padding: 5px;
+    
+}
+
+#overlay {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    opacity: .8;
+}
+
+.words-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%, -50%);
+    color: white; 
+    z-index: 1;
+    opacity: .8;
+    animation: fadeIn linear 7s;
+  -webkit-animation: fadeIn linear 7s;
+  -moz-animation: fadeIn linear 7s;
+  -o-animation: fadeIn linear 7s;
+  -ms-animation: fadeIn linear 7s;
+}
+@keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:.8;}
+  }
+  
+  @-moz-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:.8;}
+  }
+  
+  @-webkit-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:.8;}
+  }
+  
+  @-o-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:.8;}
+  }
+  
+  @-ms-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+
+#logo {
+    height: 200px;
+}
+
+h1 {
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: white;
+}
+
+
