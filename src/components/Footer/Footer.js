@@ -1,12 +1,12 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Row from "react-bootstrap/row";
-import Col from "react-bootstrap/col";
+import Row from "react-bootstrap/Row";
+import Col from "react-bootstrap/Col";
 
 function Footer() {
     return (
         <div>
-            <footer className="footer ">
+            <footer className="footer text-center">
             <Row>
             <Col md={3} className="text-center">
             <Link to="/lifts" className="footerlinks">LIFTS</Link>
