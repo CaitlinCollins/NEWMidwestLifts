@@ -9,10 +9,11 @@ function Footer() {
             <footer className="footer text-center">
             <Row>
             <Col md={3} className="text-center">
+            <Link to="/home" className="footerlinks">HOME</Link>
             <Link to="/lifts" className="footerlinks">LIFTS</Link>
             <Link to="/lighting" className="footerlinks">LIGHTING</Link>
             <Link to="/flooring" className="footerlinks">FLOORING</Link>
-            <Link to="/contact" className="footerlinks">CONTACT</Link>
+            <Link to="/contact" className="footerlinks">ABOUT</Link>
             </Col>
             <Col md={3} className="icons ms-auto text-center">
                 <i className="bi bi-facebook"></i>

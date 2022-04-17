@@ -31,9 +31,9 @@ function Home() {
                 <Link to="/flooring" className="words-overlay">FLOORING</Link>
                 </div>
                 <img src="/assets/FlooringPic6.jpg" alt="flooring" className="d-block w-100 hero"></img>
-                <div id="overlay" width="80px" height="80px">
+                {/* <div id="overlay" width="80px" height="80px">
                     <img src="/assets/logo.png" alt="logo" id="logo"></img>
-                </div>
+                </div> */}
               </div>
             </div>
             <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
