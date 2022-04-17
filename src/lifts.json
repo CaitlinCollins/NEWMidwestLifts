@@ -4,16 +4,18 @@
         "name": "STANDARD 4-Post Lift",
         "image":"assets/4Post.png",
         "alt": "4-Post Lift",
-        "description": "Here is a general description of the 4-Post Lift. Blah blah blah blah blah. It's great and stuff.Blah blah blah blah blah. It's great and stuff.Blah blah blah blah blah. It's great and stuff.Blah blah blah blah blah. It's great and stuff.",
-        "details": "assets/4Post_2021.pdf"
+        "description": "The world champion value in automotive lifts.  Offering the ability to lift up to 8 thousand pounds and allow up to 6.25 feet of drive under space there is not a better value in lifts on the market.  Our 4 POST LIFTS can be securely anchored into your space's floor or can be easily moved by one person with our ingenious caster dolly system.",
+        "details": "assets/4Post_2021.pdf",
+        "price": "$4500 USD"
     },
     {
         "id": 2,
         "name": "CLEAR FLOOR 2-Post Lift",
         "image":"assets/Clear2Post.png",
         "alt": "Clear Floor 2-Post Lift",
-        "description": "The Clear Floor 2-Post Lifts are widely used in auto and repairs shops. The hydraulic hose and equalization cables run across the top of the lift through a metal bar (conduit) that conects both columns in the overhead lift.",
-        "details": "assets/ClearFloor.pdf"
+        "description": "Offers even more flexibility than other 2 Post lifts by allowing for the use of both asymmetric and symmetric arm configurations, allowing for a clear working floor under the vehicle allowing for the use of roll jacks, oil drains, etc...  An increased degree of stability is provided by tying the twin columns together.",
+        "details": "assets/ClearFloor.pdf",
+        "price": "$3900 USD"
 
     },
     {
@@ -21,15 +23,17 @@
         "name": "FLOOR PLATE 2-Post Lift",
         "image":"assets/Plate2Post.png",
         "alt": "Floor Plate 2-Post Lift",
-        "description": "The Floor Plate 2-Post parking Lift is an industry leader. The hydraulic hose and equalization cables run across the floor and are covered by a beveled diamond-plate, steel floor plate, approximately 1-inch tall in the baseplate lift. The baseplate lift has a locking mechanism that is operated with the dual point release system.",
-        "details": "assets/FloorPlates.pdf"
+        "description": "Offers confidence inspiring body/frame lifting utility within the smallest amount of space at the best possible price.  With aircraft grade equalization cables and hydraulic hoses protected by beveled diamond steel floor plate, your ability to lift up to 9921lbs, 5.7 feet in the air will be confidence inspiring and unmatched in value.",
+        "details": "assets/FloorPlates.pdf",
+        "price": "$3800 USD"
     },
     {
         "id": 4,
         "name": "Single Post Lift",
         "image":"assets/SinglePost.png",
         "alt": "Single Post Lift",
-        "description": "Simple and space saving, the Single Post Lift features a hydraulic chain drive, ensuring stability while it lifts and falls as well as it's own movable wheels, making it flexible and conveneint to use.",
-        "details": "assets/SinglePost.pdf"
+        "description": "Offers the ultimate in flexibility when it comes to vehicle lifting.  By allowing the user to take the lift to the vehicle, accessibility becomes anything but an issue.  This space saving powerhouse allows for up to 5512 pounds of lifting capacity up to 5.9 feet off the ground.",
+        "details": "assets/SinglePost.pdf",
+        "price": "$7000 USD"
     }  
 ]

@@ -31,11 +31,9 @@ function Header() {
                 <Navbar.Collapse id="responsive-navbar-nav">
                 <Nav className="ms-auto navbarpadding">
                     <Nav.Link className="nav-link"><Link to="/home" className="nav-link">HOME</Link></Nav.Link>
-                    <NavDropdown title="SERVICES" id="basic-nav-dropdown">
-                    <NavDropdown.Item><Link to="/lifts" className="nav-link">LIFTS</Link></NavDropdown.Item>
-                    <NavDropdown.Item><Link to="/lighting" className="nav-link">LIGHTING</Link></NavDropdown.Item>
-                    <NavDropdown.Item><Link to="/flooring" className="nav-link">FLOORING</Link></NavDropdown.Item>
-                    </NavDropdown>
+                    <Nav.Link><Link to="/lifts" className="nav-link">LIFTS</Link></Nav.Link>
+                    <Nav.Link><Link to="/lighting" className="nav-link">LIGHTING</Link></Nav.Link>
+                    <Nav.Link><Link to="/flooring" className="nav-link">FLOORING</Link></Nav.Link>
                     <Nav.Link><Link to="/galleries" className="nav-link">GALLERIES</Link></Nav.Link>
                     <Nav.Link><Link to="/contact" className="nav-link">ABOUT</Link></Nav.Link>
                 </Nav>

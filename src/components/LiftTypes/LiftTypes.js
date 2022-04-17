@@ -5,6 +5,7 @@ import Card from "react-bootstrap/Card";
 function LiftTypes(props) {
    return (
     <Card>
+    <div className="liftPrice">Starting at: {props.price}</div>
     <Card.Img variant="top" src={props.image} alt={props.alt} className="liftimg"/>
     <Card.Body>
         <Card.Title className="cardtitle">{props.name} 

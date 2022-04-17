@@ -34,6 +34,7 @@ function Lifts() {
                            alt={lift.alt}
                            description={lift.description}
                            details={lift.details}
+                           price={lift.price}
                            />
                         );
                      })}

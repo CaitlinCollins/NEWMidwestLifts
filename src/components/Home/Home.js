@@ -12,25 +12,25 @@ function Home() {
                 <div className="words-overlay">
                 <Link to="/lifts" className="words-overlay">LIFTS</Link>
                 </div>
-                <img src="/assets/FlooringPic9.jpg" alt="lift" className="d-block w-100 hero"></img>
-                <div id="overlay" width="80px" height="80px">
+                <Link to="/lifts"><img src="/assets/FlooringPic9.jpg" alt="lift" className="d-block w-100 hero"></img></Link>
+                {/* <div id="overlay" width="80px" height="80px">
                     <img src="/assets/logo.png" alt="logo" id="logo"></img>
-                </div>
+                </div> */}
               </div>
               <div className="carousel-item" data-bs-interval="7000">
                   <div className="words-overlay">
                       <Link to="/lighting" className="words-overlay">LIGHTING</Link>
                   </div>
-                <img src="/assets/LightingPic3.jpg"  alt="lights" className="d-block w-100 hero"></img>
-                <div id="overlay" width="80px" height="80px">
+                <Link to="/lighting"><img src="/assets/LightingPic3.jpg"  alt="lights" className="d-block w-100 hero"></img></Link>
+                {/* <div id="overlay" width="80px" height="80px">
                     <img src="/assets/logo.png" alt="logo" id="logo"></img>
-                </div>
+                </div> */}
               </div>
               <div className="carousel-item" data-bs-interval="7000">
                 <div className="words-overlay">
                 <Link to="/flooring" className="words-overlay">FLOORING</Link>
                 </div>
-                <img src="/assets/FlooringPic6.jpg" alt="flooring" className="d-block w-100 hero"></img>
+                <Link to="/flooring"><img src="/assets/FlooringPic6.jpg" alt="flooring" className="d-block w-100 hero"></img></Link>
                 {/* <div id="overlay" width="80px" height="80px">
                     <img src="/assets/logo.png" alt="logo" id="logo"></img>
                 </div> */}
